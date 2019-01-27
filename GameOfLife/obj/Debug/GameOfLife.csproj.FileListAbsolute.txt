@@ -34,3 +34,15 @@ E:\Documents\_Universiteit Utrecht\22Concurrency\GameOfLife\obj\Debug\GameOfLife
 E:\Documents\_Universiteit Utrecht\22Concurrency\GameOfLife\obj\Debug\GameOfLife.csproj.CopyComplete
 E:\Documents\_Universiteit Utrecht\22Concurrency\GameOfLife\obj\Debug\GameOfLife.exe
 E:\Documents\_Universiteit Utrecht\22Concurrency\GameOfLife\obj\Debug\GameOfLife.pdb
+E:\Documents\GitHubResporities\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+E:\Documents\GitHubResporities\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+E:\Documents\GitHubResporities\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+E:\Documents\GitHubResporities\GameOfLife\GameOfLife\bin\Debug\Cloo.clSharp.dll
+E:\Documents\GitHubResporities\GameOfLife\GameOfLife\bin\Debug\OpenTK.dll
+E:\Documents\GitHubResporities\GameOfLife\GameOfLife\bin\Debug\OpenTK.pdb
+E:\Documents\GitHubResporities\GameOfLife\GameOfLife\bin\Debug\OpenTK.xml
+E:\Documents\GitHubResporities\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojAssemblyReference.cache
+E:\Documents\GitHubResporities\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+E:\Documents\GitHubResporities\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.CopyComplete
+E:\Documents\GitHubResporities\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+E:\Documents\GitHubResporities\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb

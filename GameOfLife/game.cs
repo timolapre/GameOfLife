@@ -145,21 +145,6 @@ namespace Template
 
                 for (int i = 0; i < pw * ph; i++) second[i] = pattern[i];
 
-                for (uint x = 1; x < 9; x++) for (uint y = 1; y < 9; y++)
-                    {
-                        Console.Write("x="+ x + " y="+y + " ");
-                        Console.Write(second[x + pw*y] + " ");
-                        uint n = GetBit(x - 1, y - 1) + GetBit(x, y - 1) + GetBit(x + 1, y - 1) + GetBit(x - 1, y) +
-                            GetBit(x + 1, y) + GetBit(x - 1, y + 1) + GetBit(x, y + 1) + GetBit(x + 1, y + 1);
-                        Console.Write(n);
-                        if ((GetBit(x, y) == 1 && n == 2) || n == 3)
-                            Console.Write(" Alive");
-                        else
-                            Console.Write(" Dead");
-                        Console.WriteLine();
-                }
-                Console.WriteLine();
-
                 //while (Keyboard.GetState().IsKeyUp(Key.Space)) { }
                 //while(Keyboard.GetState().IsKeyDown(Key.Space)) { }
             }
