@@ -61,9 +61,9 @@
     <None Include="packages.config" />
     <None Include="samples\c4-orthogonal.rle" />
     <None Include="samples\metapixel-galaxy.rle" />
-    <None Include="samples\Opentomino.rle" />
-    <None Include="samples\pattern.rle" />
-    <None Include="samples\rats.rle" />
+    <None Include="samples\Breeder.rle" />
+    <None Include="samples\RakeP90.rle" />
+    <None Include="samples\PrimeCalc.rle" />
     <None Include="samples\turing_js_r.rle" />
     <None Include="GameOfLife.cl" />
   </ItemGroup>
